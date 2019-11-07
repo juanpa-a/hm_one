@@ -1,0 +1,41 @@
+/* 
+    fonts:
+        font-family: 'Press Start 2P', cursive;
+        font-family: 'Ubuntu Mono', monospace;
+*/
+
+body {
+    background-image: url('./assets/img/battlefield.png');
+    background-size: 100%;
+    color: #fff;
+}
+
+* {
+    font-family: 'Press Start 2P', cursive;
+}
+
+#info-panel {
+    height: 200px;
+    width: 50%;
+    background: #C9D8AC;
+    font-size: 1.75rem;
+    border-radius: 25px;
+    padding: 25px;
+}
+
+p {
+    padding: 25px;
+}
+
+.pokemon {
+    /* padding-top: 200px; */
+}
+
+.pokemons {
+    width: 100% !important;
+}
+
+.rival {
+    padding-left: 320px;
+}
+
